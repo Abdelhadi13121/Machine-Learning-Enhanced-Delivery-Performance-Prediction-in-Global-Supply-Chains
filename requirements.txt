@@ -6,3 +6,6 @@ matplotlib
 joblib
 shap
 xgboost
+seaborn
+Pillow
+
